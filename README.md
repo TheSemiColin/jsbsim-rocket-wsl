@@ -40,7 +40,7 @@ This project simulates a small suborbital amateur rocket using JSBSim flight dyn
 
 ## Build Requirements
 
-- JSBSim library and headers (Clone the Reposiitory found in the external directory)
+- JSBSim library and headers ([Clone This Repository](https://github.com/jsbsim-team/jsbsim/tree/83e3df2c49c13eae78ab7853848cdd9e02c6c5ac) in the external directory)
 - C++ compiler with C++11 support
 - CMake (optional)
 
